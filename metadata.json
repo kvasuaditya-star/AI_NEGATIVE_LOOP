@@ -1,0 +1,6 @@
+{
+  "name": "AETHOS - Neural Bias Explorer",
+  "description": "Exploration and diagnosis of negative bias amplification in artificial neural networks and machine learning architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
